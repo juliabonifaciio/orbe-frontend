@@ -1,4 +1,6 @@
-# ORBE | A inteligência que conecta a ocorrência
+# ORBE 
+
+## A Inteligência que Conecta a Ocorrência
 
 Interface da plataforma ORBE, o assistente de voz para paramédicos de campo da Motiva. Projeto da Sprint 1 (Base do projeto + MVP preparatório) da disciplina Front End & Mobile Development, turma 2TIAPR.
 
