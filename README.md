@@ -52,7 +52,4 @@ Abra o endereço exibido no terminal. Para gerar a versão de produção, use `n
 
 | Integrante | RM | Responsabilidade |
 | --- | --- | --- |
-| Nome do integrante 1 | 000000 | A definir |
-| Nome do integrante 2 | 000000 | A definir |
-| Nome do integrante 3 | 000000 | A definir |
-| Nome do integrante 4 | 000000 | A definir |
+| Julia Marcela de Faria Bonifacio | 566673 | Scrum Master |
